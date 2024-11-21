@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
+- 第十届全国青年科普创新实验暨作品大赛特等奖, 中国科学技术协会, 2024.
 
-- Freshman Academic Scholarship, 2022.
+- 第十届全国青年科普创新实验暨作品大赛优秀指导教师, 中国科学技术协会, 2024.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- “ 青创北京” 2024 年“ 挑战杯”首都大生创业计划竞赛主赛道铜奖, 共青团北京市委员会, 2024.
 
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- 优秀学生, 北京理工大学, 2024.
