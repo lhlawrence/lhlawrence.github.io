@@ -5,7 +5,7 @@
 He is currently pursuing a Phd Degree in Control Science and Engineering, at School of Automation, Beiing Institute of Technology, China.
 
 #### Email
-3120215474@bit.edu.cn
+3120215474[[@]]bit.edu.cn
 
 #### Education
 Phd., Control Science and Engineering, Beijing Institute of Technology, 2019—2025 (expected).\
