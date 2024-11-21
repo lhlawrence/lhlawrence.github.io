@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/lhlawrence)
+[![lianghao](https://img.shields.io/badge/lianghao-github-blue?logo=github)](https://github.com/lhlawrence)
 
 He is currently pursuing a Phd Degree in Control Science and Engineering, at School of Automation, Beiing Institute of Technology, China.
 
