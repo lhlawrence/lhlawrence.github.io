@@ -11,12 +11,15 @@
         <a href="https://doi.org/10.1109/JSEN.2023.3251661">[Paper]</a>
     </td>
 </tr>
+</table>
+
+<table style="width:100%; border-collapse:collapse;">
 <tr>
     <td style="padding:10px;width:30%;vertical-align:middle">
         <img src="static/assets/img/stitchreview.png" width="100%" alt="Image Stitching Review">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
-        <papertitle> UVSS: Unified Video Stabilization and Stitching for Surround View of Tractor-Trailer Vehicles. </papertitle>
+        UVSS: Unified Video Stabilization and Stitching for Surround View of Tractor-Trailer Vehicles.
         <br>
         <a>Chunhui Zhu </a >,
         <a>Yi Yang* </a >,
