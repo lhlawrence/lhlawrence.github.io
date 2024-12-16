@@ -16,9 +16,18 @@
         <img src="static/assets/img/stitchreview.png" width="100%" alt="Image Stitching Review">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
-        - C Zhu, Y Yang*, <strong>H Liang</strong>, Z Dong, M Fu (2023). UVSS: Unified Video Stabilization and Stitching for Surround View of Tractor-Trailer Vehicles. <strong>2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>. 
+        <papertitle> UVSS: Unified Video Stabilization and Stitching for Surround View of Tractor-Trailer Vehicles. </papertitle>
         <br>
-        <a href="https://doi.org/10.1109/JSEN.2023.3251661">[Paper]</a>
+        <a>Chunhui Zhu </a >,
+        <a>Yi Yang* </a >,
+        <strong>Hao Liang</strong>,
+        <a>Zhipeng Dong</a >,
+        <a>Mengyin Fu</a>,
+        <br>
+        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS</strong>) 2023</em>
+        <br>
+        <a href="https://doi.org/10.1109/IROS55552.2023.10342264">[Paper]</a > 
+        <p></p >
     </td>
 </tr>
 </table>
