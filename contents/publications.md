@@ -5,7 +5,7 @@
         <img src="static/assets/img/stitchreview.png" width="100%" alt="Image Stitching Review">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
-        <h3>Image stitching techniques applied to plane or 3-D models: a review.</h3>
+        <h2>Image stitching techniques applied to plane or 3-D models: a review.</h2>
         <br>
         <a>Mengyin Fu </a >,
         <strong>Hao Liang</strong>,
@@ -30,7 +30,7 @@
         <img src="static/assets/img/uvss.jpg" width="100%" alt="Image Stitching Review">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
-        <h3>UVSS: Unified Video Stabilization and Stitching for Surround View of Tractor-Trailer Vehicles.</h3>
+        <h2>UVSS: Unified Video Stabilization and Stitching for Surround View of Tractor-Trailer Vehicles.</h2>
         <br>
         <a>Chunhui Zhu </a >,
         <a>Yi Yang* </a >,
@@ -53,7 +53,7 @@
         <img src="static/assets/img/24detect.png" width="100%" alt="Image Stitching Review">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
-        <h3>Fisheye object detection based on standard image datasets with 24-points regression strategy.</h3>
+        <h2>Fisheye object detection based on standard image datasets with 24-points regression strategy.</h2>
         <br>
         <a>Xi Xu </a >,
         <a>Yan Gao </a >,
