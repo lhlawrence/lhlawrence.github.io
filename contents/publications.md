@@ -15,7 +15,7 @@
         <a>Yufeng Yue</a>,
         <a>Yi Yang*</a>,
         <br>
-        <em><strong>IEEE Sensors Journal.</strong></em>
+        <em>IEEE Sensors Journal (<strong>SENS J</strong>) 2023</em>
         <br>
         <a href="https://doi.org/10.1109/JSEN.2023.3251661">[Paper]</a > 
         <p></p >
@@ -27,7 +27,7 @@
 <table style="width:100%; border-collapse:collapse;">
 <tr>
     <td style="padding:10px;width:30%;vertical-align:middle">
-        <img src="static/assets/img/uvss.png" width="100%" alt="Image Stitching Review">
+        <img src="static/assets/img/uvss.jpg" width="100%" alt="Image Stitching Review">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
         UVSS: Unified Video Stabilization and Stitching for Surround View of Tractor-Trailer Vehicles.
@@ -50,7 +50,7 @@
 <table style="width:100%; border-collapse:collapse;">
 <tr>
     <td style="padding:10px;width:30%;vertical-align:middle">
-        <img src="static/assets/img/24detect.jpg" width="100%" alt="Image Stitching Review">
+        <img src="static/assets/img/24detect.png" width="100%" alt="Image Stitching Review">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
         Fisheye object detection based on standard image datasets with 24-points regression strategy.
