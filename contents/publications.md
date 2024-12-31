@@ -28,7 +28,7 @@
 <table style="width:100%; border-collapse:collapse;">
 <tr>
     <td style="padding:10px;width:30%;vertical-align:middle">
-        <img src="static/assets/img/sun2024.png" width="100%" alt="Image Stitching Review">
+        <img src="static/assets/img/sun2024.png" width="200px" alt="Image Stitching Review">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
         <span style="font-size: 1.2em;">Robust Multi-Camera BEV Perception: An Image-Perceptive Approach  to Counter Imprecise Camera Calibration.</span>
