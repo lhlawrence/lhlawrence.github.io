@@ -16,6 +16,7 @@
         <br>
         <em>arxiv 2024</em>
         <br>
+        <a href="https://inin-drops.github.io/UVM-VSS/">[Project]</a >
         <a href="https://arxiv.org/pdf/2412.07154">[PDF]</a > 
         <a href="https://github.com/lhlawrence/UVM-VSS">[Code]</a > 
         <a href="https://youtu.be/CqoVZQdvxU4">[Video]</a >
@@ -28,7 +29,7 @@
 <table style="width:100%; border-collapse:collapse;">
 <tr>
     <td style="padding:10px;width:30%;vertical-align:middle">
-        <img src="static/assets/img/sun2024.png" width="200px" alt="Image Stitching Review">
+        <img src="static/assets/img/sun2024.png" width="100%" alt="Image Stitching Review">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
         <span style="font-size: 1.2em;">Robust Multi-Camera BEV Perception: An Image-Perceptive Approach  to Counter Imprecise Camera Calibration.</span>
@@ -52,7 +53,7 @@
 <table style="width:100%; border-collapse:collapse;">
 <tr>
     <td style="padding:10px;width:30%;vertical-align:middle">
-        <img src="static/assets/img/dsvt.jpg" width="100%" alt="Image Stitching Review">
+        <img src="static/assets/img/dsvt.png" width="100%" alt="Image Stitching Review">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
         <span style="font-size: 1.2em;">DSVT: Dynamic 3D Surround View for Tractor-Trailer Vehicles  Based on Real-Time Pose Estimation with Drop Model.</span>
