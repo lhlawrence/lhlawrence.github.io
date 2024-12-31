@@ -1,4 +1,77 @@
-<!-- 第一篇文章 -->
+<!-- 第六篇文章 -->
+<table style="width:100%; border-collapse:collapse;">
+<tr>
+    <td style="padding:10px;width:30%;vertical-align:middle">
+        <img src="static/assets/img/UVM-VSS.png" width="100%" alt="Image Stitching Review">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <span style="font-size: 1.2em;">Unified Vertex Motion Estimation for Integrated Video Stabilization and Stitching in Tractor-Trailer Wheeled.</span>
+        <br>
+        <strong>Hao Liang</strong>,
+        <a>Zhipeng Dong </a >,
+        <a>Hao Li </a >,
+        <a>Yufeng Yue </a >,
+        <a>Mengyin Fu</a >,
+        <a>Yi Yang*</a>,
+        <br>
+        <em>arxiv 2024</em>
+        <br>
+        <a href="https://arxiv.org/pdf/2412.07154">[PDF]</a > 
+        <a href="https://github.com/lhlawrence/UVM-VSS">[Code]</a > 
+        <a href="https://youtu.be/CqoVZQdvxU4">[Video]</a >
+        <p></p >
+    </td>
+</tr>
+</table>
+
+<!-- 第五篇文章 -->
+<table style="width:100%; border-collapse:collapse;">
+<tr>
+    <td style="padding:10px;width:30%;vertical-align:middle">
+        <img src="static/assets/img/sun2024.png" width="100%" alt="Image Stitching Review">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <span style="font-size: 1.2em;">Robust Multi-Camera BEV Perception: An Image-Perceptive Approach  to Counter Imprecise Camera Calibration.</span>
+        <br>
+        <a>Rundong Sun</a >,
+        <a>Mengyin Fu</a >,
+        <strong>Hao Liang</strong>,
+        <a>Chunhui Zhu </a >,
+        <a>Zhipeng Dong </a >,
+        <a>Yi Yang*</a>,
+        <br>
+        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS</strong>) 2024</em>
+        <br>
+        <a href="https://ieeexplore.ieee.org/document/10802840">[IEEE]</a > 
+        <p></p >
+    </td>
+</tr>
+</table>
+
+<!-- 第四篇文章 -->
+<table style="width:100%; border-collapse:collapse;">
+<tr>
+    <td style="padding:10px;width:30%;vertical-align:middle">
+        <img src="static/assets/img/dsvt.jpg" width="100%" alt="Image Stitching Review">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <span style="font-size: 1.2em;">DSVT: Dynamic 3D Surround View for Tractor-Trailer Vehicles  Based on Real-Time Pose Estimation with Drop Model.</span>
+        <br>
+        <a>Zhipeng Dong</a >,
+        <a>Mengyin Fu</a >,
+        <strong>Hao Liang</strong>,
+        <a>Chunhui Zhu </a >,
+        <a>Yi Yang*</a>,
+        <br>
+        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS</strong>) 2024</em>
+        <br>
+        <a href="https://ieeexplore.ieee.org/document/10801679">[IEEE]</a > 
+        <p></p >
+    </td>
+</tr>
+</table>
+
+<!-- 第三篇文章 -->
 <table style="width:100%; border-collapse:collapse;">
 <tr>
     <td style="padding:10px;width:30%;vertical-align:middle">
@@ -46,7 +119,7 @@
 </tr>
 </table>
 
-<!-- 第三篇文章 -->
+<!-- 第一篇文章 -->
 <table style="width:100%; border-collapse:collapse;">
 <tr>
     <td style="padding:10px;width:30%;vertical-align:middle">
