@@ -14,10 +14,11 @@
         <a>Mengyin Fu</a >,
         <a>Yi Yang*</a>,
         <br>
-        <em>arxiv 2024</em>
+        <em>Robotics and Autonomous Systems (<strong>RAS</strong>) 2025</em>
         <br>
         <a href="https://inin-drops.github.io/UVM-VSS/">[Project]</a >
-        <a href="https://arxiv.org/pdf/2412.07154">[PDF]</a > 
+        <a href="https://arxiv.org/pdf/2412.07154">[Arxiv]</a >
+        <a href="https://doi.org/10.1016/j.robot.2025.105004">[Elsevier]</a > 
         <a href="https://github.com/lhlawrence/UVM-VSS">[Code]</a > 
         <a href="https://youtu.be/CqoVZQdvxU4">[Video]</a >
         <p></p >
