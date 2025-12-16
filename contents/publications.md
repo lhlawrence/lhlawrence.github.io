@@ -1,4 +1,4 @@
-<!-- 第八篇文章 -->
+<!-- 第九篇文章 -->
 <table style="width:100%; border-collapse:collapse;">
 <tr>
     <td style="padding:10px;width:30%;vertical-align:middle">
@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-<!-- 第七篇文章 -->
+<!-- 第八篇文章 -->
 <table style="width:100%; border-collapse:collapse;">
 <tr>
     <td style="padding:10px;width:30%;vertical-align:middle">
@@ -51,7 +51,7 @@
 </tr>
 </table>
 
-<!-- 第六篇文章 -->
+<!-- 第七篇文章 -->
 <table style="width:100%; border-collapse:collapse;">
 <tr>
     <td style="padding:10px;width:30%;vertical-align:middle">
@@ -74,6 +74,30 @@
         <a href="https://doi.org/10.1016/j.robot.2025.105004">[Elsevier]</a > 
         <a href="https://github.com/lhlawrence/UVM-VSS">[Code]</a > 
         <a href="https://youtu.be/CqoVZQdvxU4">[Video]</a >
+        <p></p >
+    </td>
+</tr>
+</table>
+
+<!-- 第六篇文章 -->
+<table style="width:100%; border-collapse:collapse;">
+<tr>
+    <td style="padding:10px;width:30%;vertical-align:middle">
+        <img src="static/assets/img/gaoyu.png" width="100%" alt="Image Stitching Review">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <span style="font-size: 1.2em;">MC-NeRF: Multi-Camera Neural Radiance Fields for Multi-Camera Image Acquisition Systems.</span>
+        <br>
+        <a>Yu Gao</a >,
+        <a>Lutong Su</a >,
+        <strong>Hao Liang</strong>,
+        <a>Yufeng Yue </a >,
+        <a>Yi Yang*</a>,
+        <a>Mengyin Fu</a >,
+        <br>
+        <em>IEEE Transactions on Visualization and Computer Graphics (<strong>TVCG</strong>) 2025</em>
+        <br>
+        <a href="https://ieeexplore.ieee.org/document/10906477">[IEEE]</a > 
         <p></p >
     </td>
 </tr>
