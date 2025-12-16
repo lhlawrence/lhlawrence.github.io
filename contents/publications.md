@@ -1,3 +1,56 @@
+<!-- 第八篇文章 -->
+<table style="width:100%; border-collapse:collapse;">
+<tr>
+    <td style="padding:10px;width:30%;vertical-align:middle">
+        <img src="static/assets/img/chatstitch.png" width="100%" alt="Chatstitch">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <span style="font-size: 1.2em;">ChatStitch: Visualizing Through Structures via Surround-View Unsupervised Deep Image Stitching with Collaborative LLM-Agents.</span>
+        <br>
+        <strong>Hao Liang</strong>,
+        <a>Zhipeng Dong</a >,
+        <a>Kaixin Chen</a >,
+        <a>Hao Li</a >,
+        <a>Jiyuan Guo</a >,
+        <a>Yufeng Yue</a >,
+        <a>Mengyin Fu</a >,
+        <a>Yi Yang*</a>,
+        <br>
+        <em> IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>) 2025</em>
+        <br>
+        <a href="https://inin-drops.github.io/ChatStitch/">[Project]</a >
+        <a href="https://arxiv.org/abs/2503.14948">[Arxiv]</a >
+        <a href="https://ieeexplore.ieee.org/document/11206342">[IEEE]</a > 
+        <a href="https://github.com/lhlawrence/ChatStitch">[Code]</a > 
+        <a href="https://youtu.be/7s27-LLyvx4">[Video]</a >
+        <p></p >
+    </td>
+</tr>
+</table>
+
+<!-- 第七篇文章 -->
+<table style="width:100%; border-collapse:collapse;">
+<tr>
+    <td style="padding:10px;width:30%;vertical-align:middle">
+        <img src="static/assets/img/udsv.png" width="100%" alt="Image Stitching Review">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <span style="font-size: 1.2em;">UDSV: Unsupervised Deep Stitching for Tractor-Trailer Surround View.</span>
+        <br>
+        <a>Leyao Sun</a >,
+        <strong>Hao Liang</strong>,
+        <a>Zhipeng Dong </a >,
+        <a>Yi Yang</a>,
+        <a>Mengyin Fu*</a >,
+        <br>
+        <em>IEEE International Conference on Robotics and Automation  (<strong>ICRA</strong>) 2025</em>
+        <br>
+        <a href="https://ieeexplore.ieee.org/document/11127831/">[IEEE]</a > 
+        <p></p >
+    </td>
+</tr>
+</table>
+
 <!-- 第六篇文章 -->
 <table style="width:100%; border-collapse:collapse;">
 <tr>
